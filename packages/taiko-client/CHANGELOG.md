@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.23.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-client-v0.22.0...taiko-client-v0.23.0) (2024-05-12)
+
+
+### Features
+
+* **bridge-ui:** release  ([#17071](https://github.com/taikoxyz/taiko-mono/issues/17071)) ([2fa3ae0](https://github.com/taikoxyz/taiko-mono/commit/2fa3ae0b2b2317a467709110c381878a3a9f8ec6))
+* **taiko-client:** bump Go contract bindings ([#17068](https://github.com/taikoxyz/taiko-mono/issues/17068)) ([f1462c2](https://github.com/taikoxyz/taiko-mono/commit/f1462c28aa72104a20a2bcdf805092eab35f62a7))
+* **taiko-client:** use taiko-geth params ([#17044](https://github.com/taikoxyz/taiko-mono/issues/17044)) ([9e85e2f](https://github.com/taikoxyz/taiko-mono/commit/9e85e2fe3ba15f72fb3bbc6fa165a71a7aaee845))
+
+
+### Bug Fixes
+
+* **taiko-client:** fix an issue in `BlockProposed` event handler && remove some unused code ([#17065](https://github.com/taikoxyz/taiko-mono/issues/17065)) ([5c4a025](https://github.com/taikoxyz/taiko-mono/commit/5c4a0251b6a52300a460acd82bd98b23adaeefa5))
+
 ## [0.22.0](https://github.com/taikoxyz/taiko-client/compare/v0.21.0...v0.22.0) (2024-04-19)
 
 
